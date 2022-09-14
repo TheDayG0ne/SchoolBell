@@ -1,2 +1,4 @@
-# SchoolBell
-SchoolBell project
+# SchoolBell Project
+
+SchoolBell - это программа, основной задачей которой является подача звонков по заранее заданному расписанию
+Распространяется по лицензии MIT (https://ru.wikipedia.org/wiki/Лицензия_MIT)
