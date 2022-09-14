@@ -18,5 +18,5 @@ SchoolBell.exe
 либо создайте ярлык данной программы
 
 ## Лицензии
-Данный проект распространяется по лицензии [MIT](https://choosealicense.com/licenses/mit/) (https://ru.wikipedia.org/wiki/Лицензия_MIT)
+Данный проект распространяется по лицензии [MIT](https://choosealicense.com/licenses/mit/) [(Wikipedia)](https://ru.wikipedia.org/wiki/Лицензия_MIT)
 
